@@ -141,7 +141,7 @@
     <style name="ListItem">
         <item name="android:orientation">horizontal</item>
         <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">@dimen/list_height</item>
+        <item name="android:layout_height">wrap_content</item>
         <item name="android:padding">@dimen/general_margin</item>
         <item name="android:background">@color/startBackground</item>
     </style>
